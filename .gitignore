@@ -1,5 +1,4 @@
 tags
-list_sav
-list_short
 res_save
-mollu_trans
+*.o
+a.out*
